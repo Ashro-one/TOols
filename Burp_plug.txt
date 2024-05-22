@@ -15,4 +15,4 @@
 15,越权检测,AuthMatrix 它提供了一种简单的方法来测试 Web 应用程序和 Web 服务中的授权,https://github.com/SecurityInnovation/AuthMatrix
 16,jsEncrypter,使用于前端加密传输爆破等场景,https://github.com/c0ny1/jsEncrypter
 17,Jsonp_Hunter,COSP跨域资源,https://github.com/p1g3/JSONP-Hunter,https://blog.csdn.net/B_l_a_nk/article/details/132994583
-18,,,
+18,BurpAPIFinder,很多未授权/敏感信息/越权隐匿在已访问接口过html JS文件等,https://github.com/shuanx/BurpAPIFinder
