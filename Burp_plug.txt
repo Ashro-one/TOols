@@ -13,4 +13,6 @@
 13,domain_hunter_pro,domain_hunter的高级版本 SRC挖洞 HW打点之必备！自动化资产收集；快速Title获取；外部工具联动；等等,https://github.com/bit4woo/domain_hunter_pro
 14,验证码爆破,captcha-killer的修改版 支持关键词识别base64编码的图片 添加免费ocr库 用于验证码爆破 适配新版Burpsuite,https://github.com/f0ng/captcha-killer-modified
 15,越权检测,AuthMatrix 它提供了一种简单的方法来测试 Web 应用程序和 Web 服务中的授权,https://github.com/SecurityInnovation/AuthMatrix
-16,
+16,jsEncrypter,使用于前端加密传输爆破等场景,https://github.com/c0ny1/jsEncrypter
+17,Jsonp_Hunter,COSP跨域资源,https://github.com/p1g3/JSONP-Hunter,https://blog.csdn.net/B_l_a_nk/article/details/132994583
+18,,,
