@@ -1,0 +1,16 @@
+1,Log4j2Scan,Log4j2 远程代码执行漏洞 BurpSuite 的被动扫描插件,https://github.com/whwlsfb/Log4j2Scan
+2,BurpFastJsonScan,一款基于BurpSuite的被动式FastJson检测插件,https://github.com/pmiaowu/BurpFastJsonScan
+3,BurpJSLinkFinder,用于端点链接的被动扫描 JS 文件的 Burp 扩展,https://github.com/InitRoot/BurpJSLinkFinder
+4,BurpShiroPassiveScan,一款基于BurpSuite的被动式shiro检测插件,https://github.com/pmiaowu/BurpShiroPassiveScan
+5,BurpSuite_403Bypasser,绕过 403 限制目录的 Burpsuite 扩展,https://github.com/sting8k/BurpSuite_403Bypasser
+6,Fiora,漏洞PoC框架Nuclei的图形版。快捷搜索PoC、一键运行Nuclei。即可作为独立程序运行也可作为burp插件使用,https://github.com/bit4woo/Fiora/releases
+7,HackBar,Burpsuite 的 HackBar 插件,https://github.com/d3vilbug/HackBar
+8,HaE,HaE是基于 BurpSuite Java插件API 开发的请求高亮标记与信息提取的辅助型框架式插件 该插件可以通过自定义正则的方式匹配响应报文或请求报文 并对满足正则匹配的报文进行信息高亮与提取。https://github.com/gh0stkey/HaE
+9,sqlmap4burp++,sqlmap4burp++是一款兼容Windows mac linux多个系统平台的Burp与sqlmap联动插件,https://github.com/c0ny1/sqlmap4burp-plus-plus
+10,TsojanScan,一个集成的BurpSuite漏洞探测插件,https://github.com/Tsojan/TsojanScan
+11,分块传输,Burp suite 分块传输辅助插件,https://github.com/c0ny1/chunked-coding-converter
+12,伪造IP,服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件,https://github.com/TheKingOfDuck/burpFakeIP
+13,domain_hunter_pro,domain_hunter的高级版本 SRC挖洞 HW打点之必备！自动化资产收集；快速Title获取；外部工具联动；等等,https://github.com/bit4woo/domain_hunter_pro
+14,验证码爆破,captcha-killer的修改版 支持关键词识别base64编码的图片 添加免费ocr库 用于验证码爆破 适配新版Burpsuite,https://github.com/f0ng/captcha-killer-modified
+15,越权检测,AuthMatrix 它提供了一种简单的方法来测试 Web 应用程序和 Web 服务中的授权,https://github.com/SecurityInnovation/AuthMatrix
+16,
